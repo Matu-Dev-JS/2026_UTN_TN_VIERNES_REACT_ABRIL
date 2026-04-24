@@ -3,7 +3,8 @@ import { Route, Routes } from 'react-router'
 import HomeScreen from './Screens/HomeScreen/HomeScreen'
 import ContactDetailScreen from './Screens/ContactDetailScreen/ContactDetailScreen'
 import { ContactsContextProvider } from './Context/ContactsContext'
-import { ContactDetailContext, ContactDetailContextProvider } from './Context/ContactDetailContext'
+import { ContactDetailContext, ContactDetailContextProvider } from './context/ContactDetailContext'
+
 
 
 
